@@ -6,8 +6,10 @@ Using python we build a program where we move a mouse cursor and click it withou
 ## 🚀 Approach of project 
 We divided into three parts
 1. Human face face recognition  
-2. Find Eye on face
-3. Assign work of eyes one is cursor and second is clicker
+
+
+3. Find Eye on face
+4. Assign work of eyes one is cursor and second is clicker
 
 
 
