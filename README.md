@@ -11,9 +11,11 @@ We divided into three parts
 3. Find Eye on face
 4. Assign work of eyes one is cursor and second is clicker
 
-## important packages
+## Important Packages
 opencv-contrib-python
+
 mediapipe
+
 pyautogui
 
 
